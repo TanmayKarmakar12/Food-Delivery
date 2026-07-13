@@ -1,16 +1,24 @@
-# React + Vite
+🍔 FoodieExpress - Food Delivery Web Application
+A clean, responsive, and user-friendly front-end food delivery web application that allows users to browse food categories, search for specific dishes, filter by dietary preferences (Veg/Non-Veg), and seamlessly add items to their cart.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: food-delivery-tanmay.netlify.app
 
-Currently, two official plugins are available:
+🚀 Features
+Category Filtering: Quick-access category tabs (All, Breakfast, Soups, Pasta, Main Course, Pizza, Burger) to filter the menu dynamically.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search Functionality: An intuitive search bar at the top to quickly find your favorite dishes.
 
-## React Compiler
+Dietary Indicators: Clear visual tags indicating whether a dish is Veg 🟢 or Non-Veg 🔴.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+Interactive Shopping Cart: A persistent cart counter at the top right tracking your items in real-time.
 
-## Expanding the ESLint configuration
+Modern UI/UX: A minimalist, grid-based layout utilizing card components, clean typography, and vibrant call-to-action buttons (Add to Dish).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully Responsive: Optimized for desktop, tablet, and mobile viewing screens.
+
+🛠️ Tech Stack
+Front-End: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
+
+Icons: FontAwesome / SVG Icons
+
+Hosting: Netlify
